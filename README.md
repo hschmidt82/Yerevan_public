@@ -3,7 +3,7 @@
 Contains the processed structural data from the Yerevan study (language training in native speakers), and the MATLAB code to analyse them.
 
 
-Scripts utilise the circulargraph function as found on https://www.mathworks.com/matlabcentral/fileexchange/48576-circulargraph. See https://github.com/paul-kassebaum-mathworks/circularGraph for documentation and licensing details.
+Scripts utilise the circulargraph function as found on https://www.mathworks.com/matlabcentral/fileexchange/48576-circulargraph. See https://github.com/paul-kassebaum-mathworks/circularGraph for documentation and licensing details [1].
 
 
 This package contains the structural data in the following folders:
@@ -23,3 +23,7 @@ Yerevan_SVD_baseline.m        - recreates results shown in Figure 2
 Yerevan_SVD_training.m        - recreates results shown in Figure 3
 
 Yerevan_SVD_baseline_right.m  - recreates results shown in Figure 4
+
+# References
+
+[1] Paul Kassebaum (2022). circularGraph (https://github.com/paul-kassebaum-mathworks/circularGraph), GitHub. Retrieved January 11, 2022. 
