@@ -1,6 +1,6 @@
 # Yerevan_public
 
-Contains the processed structural data from the Yerevan study (language training in native speakers), and the MATLAC code to analyse them.
+Contains the processed structural data from the Yerevan study (language training in native speakers), and the MATLAB code to analyse them.
 
 
 Scripts utilise the circulargraph function as found on https://www.mathworks.com/matlabcentral/fileexchange/48576-circulargraph. See https://github.com/paul-kassebaum-mathworks/circularGraph for documentation and licensing details.
