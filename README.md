@@ -13,7 +13,7 @@ This package contains the structural data in the following folders:
 'probtrackX_rh/'    - data for right hemisphere
 
 
-The following m-files recreate parts (b) and (c) of Figures 2-4 of the manuscript that soon to be published (updates will follow shortly). NB: Part (a) of Figures 2-4 are created with external software for visualisation purposes only, and do not contain any critical information for the reproduction of this study.
+The following m-files recreate parts (b) and (c) of Figures 2-4 of the manuscript that soon to be published (updates will follow shortly). NB: Part (a) of Figures 2-4 is created with external software for visualisation purposes only, and do not contain any critical information for the reproduction of this study.
 
 
 List of scripts to execute:
